@@ -22,7 +22,7 @@ The Focus Clock is a web-based countdown timer inspired by the Pomodoro Techniqu
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started-
 
 1. **Clone the repository**
 
